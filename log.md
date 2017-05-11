@@ -1,6 +1,6 @@
 ### Day 1: May 11, 2017: Monday
 
-**Today's Progress**: Reestablish 100 Days of Code with Python Focus
+**Today's Progress**: Reestablish 100 Days of Code for Summer 17 with Python Focus
 
 **Goals for Work** Develop a suite of tools to assist in network hardening and attack.
 
