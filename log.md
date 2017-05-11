@@ -10,6 +10,5 @@
 3. Python 3 will be used.
 
 **Link(s) to work**
-1. NA
-2. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-3. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Writing Basic Security Scripts in Python](http://www.binary-zone.com/course/HTID/Python4Infosec.pdf)
+
