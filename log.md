@@ -11,4 +11,5 @@
 
 **Link(s) to work**
 1. [Writing Basic Security Scripts in Python](http://www.binary-zone.com/course/HTID/Python4Infosec.pdf)
+2. [Python Socket Programming] (http://www.binarytides.com/python-socket-programming-tutorial/)
 
